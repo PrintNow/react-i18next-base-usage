@@ -1,0 +1,17 @@
+{
+  "Welcome": "Welcome to this React project!",
+  "Title": "Warm-Up",
+  "Case2": "Case 2: Function component test",
+  "Case3": "Case 3: Use of multiple namespaces for function components",
+  "Case5": "Case 5: Use <1>Trans</1> Component, learn more <3>click here</3>",
+  "Case6": "Case 6: List render",
+  "AnimalList": [
+    "I like Panda",
+    "I like Monkey",
+    "I like Pig"
+  ],
+  "Case7": {
+    "apple": "I have {{count}} apple",
+    "apple_other": "I have {{count}} apples"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "Save": "Save",
+  "SavedSuccessfully": "Saved successfully",
+  "Discard": "Discard",
+  "Confirm": "Confirm",
+  "Cancel": "Cancel",
+  "Delete": "Delete",
+  "Remove": "Remove",
+  "Close": "Close",
+  "Case_N": "Case {{num}}",
+  "Menu": {
+    "Home": "Home",
+    "Settings": "Settings",
+    "Products": "Products"
+  }
+}
