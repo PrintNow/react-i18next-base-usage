@@ -20,6 +20,48 @@ React + react-i18next 例子
 - Node.js: `v17.6.0`
 - Yarn: `1.22.17`
 
+### 目录结构
+
+```bash
+src
+├── assets
+│   └── global.scss     -- 全局样式
+├── component           -- 组件目录
+│   ├── CodeShow
+│   ├── Link
+│   ├── NotFound
+│   ├── Test.tsx
+│   ├── TopBar
+│   └── index.ts
+├── favicon.svg
+├── i18n
+│   ├── SupportLanguages.ts
+│   ├── config.ts
+│   ├── en
+│   ├── i18next.d.ts
+│   ├── resource.ts
+│   └── zh
+├── layouts
+│   ├── Menu
+│   └── index.ts
+├── main.tsx
+├── pages               -- 相关页面
+│   ├── Home
+│   ├── Setting
+│   └── index.ts
+├── routes              -- 路由配置文件
+│   └── index.ts
+├── styles
+│   └── global.sass
+├── types
+│   └── BaseComponent.ts
+├── utils               -- 工具类
+│   ├── languages.d.ts
+│   ├── languages.ts
+│   └── test-util.ts
+└── vite-env.d.ts
+```
+
 ### 安装&使用
 
 ```shell
